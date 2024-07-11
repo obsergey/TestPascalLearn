@@ -1,0 +1,8 @@
+program Ufff;
+
+begin
+
+
+
+end.
+
